@@ -1,0 +1,7 @@
+{
+  "name": "chicharra",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
